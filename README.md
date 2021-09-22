@@ -1,6 +1,6 @@
-# Softwares OpenGl
+# Softwares de CPP com Biblioteca Externa
 
-Softwares em OpenGl criado pelos seguintes autores:
+Softwares em c++ criado pelos seguintes autores:
 
 - Professor Sérgio Apolinário em conjunto com os estudantes de doutorado Everton Lima.
 
