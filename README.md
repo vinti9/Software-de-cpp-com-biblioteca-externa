@@ -10,7 +10,7 @@ Acompanhamento e idealização: Sérgio Apolinário.
 
 Idealização e execução: Everton Lima.
 
-Esse programa pode ser utilizado para compreender o uso de uma biblioteca externa para simplificar o código de programas extensos. Apresentamos um exemplo, para efeitos didáticos, aplicado ao caso de um código que calcula a soma de dois vetores distintos com valores iniciais pré-definidos.
+Esse programa pode ser utilizado para compreender o uso de uma biblioteca externa com o objetivo de simplificar o código de programas extensos escritos em c++. Apresentamos um exemplo, para efeitos didáticos, aplicado ao caso de um código que calcula a soma de dois vetores distintos com valores iniciais pré-definidos.
 
 Os programas neste repositório podem ser copiados, alterados e utilizados livremente.
 
