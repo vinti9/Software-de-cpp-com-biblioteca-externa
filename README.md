@@ -1,4 +1,4 @@
-# Softwares de CPP com Biblioteca Externa para uso diversos
+# Softwares em CPP com Bibliotecas Externas para uso diversos
 
 Softwares em c++ criado pelos seguintes autores:
 
