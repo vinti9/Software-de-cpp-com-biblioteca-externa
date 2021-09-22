@@ -1,19 +1,20 @@
-# Softwares de CPP com Biblioteca Externa
+# Softwares de CPP com Biblioteca Externa para uso diversos
 
 Softwares em c++ criado pelos seguintes autores:
 
-- Professor Sérgio Apolinário em conjunto com os estudantes de doutorado Everton Lima.
+- Professor **Sérgio Apolinário** em conjunto com o doutorando em física **Everton Lima**.
 
 Créditos:
 
-Acompanhamento e idealização: Sérgio Apolinário
-Idealização e execução: Everton Lima
+Acompanhamento e idealização: Sérgio Apolinário.
 
-Esse programa pode ser utilizado por qualquer usuário interessado em visualizações de sistemas coloidais, em duas e três dimensões, assim como sistemas de partículas de poeira. Outros sistemas podem ser utilizados desde que se conheça a posição dos constituintes.
+Idealização e execução: Everton Lima.
 
-Não exigimos os créditos, podendo o programa ser copiado e utilizado livremente.
+Esse programa pode ser utilizado para compreender o uso de uma biblioteca externa para simplificar o código de programas extensos. Neste exemplo, mostramos como se pode aplicar ao caso de um código que calcula a soma de dois vetores com valores iniciais pré-definidos.
 
-Em caso de dúvidas ou contribuições para melhoria do programa escrever para os endereços eletrônicos:
+Os programas neste repositório podem ser copiados, alterados e utilizados livremente.
+
+Em caso de dúvidas ou contribuições para melhoria dos programas, por favor, escrever para os endereços eletrônicos:
 
 - sergio.apolinario@ufpe.br
 - everton.olima@ufpe.br
